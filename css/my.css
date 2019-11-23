@@ -1,0 +1,15 @@
+#list-div:hover{
+   background-color:#ecebeb;
+}
+
+thead {
+	background-color: #dddddd40;
+}
+
+tr {
+	font-weight:bold;
+}
+
+.form-control {
+	font-weight:bold;
+}
